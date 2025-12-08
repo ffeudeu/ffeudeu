@@ -17,6 +17,26 @@
 
 ---
 
+## 🛠️ Tecnologias e Ferramentas
+
+### 📊 **Dados e BI**
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🐍 **Programação**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### ☁️ **Cloud**
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+
+### 💻 **Outros**
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
 ## 📌 Projetos em Destaque
 
 > *Depois que organizar seus projetos, altere aqui com links reais.*
@@ -46,11 +66,22 @@ Descrição: Pipeline de dados simples usando ferramentas da AWS.
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](www.linkedin.com/in/joao-loffeu)
-[![Email](loffeusao12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joao-loffeu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loffeusao12@gmail.com)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ffeudeu&show_icons=true&theme=tokyonight)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffeudeu&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
 ### ✨ Obrigado por visitar meu perfil!
 Se quiser ver meus projetos, role até os repositórios fixados 👇
-
