@@ -39,8 +39,6 @@
 
 ## 📌 Projetos em Destaque
 
-> *Depois que organizar seus projetos, altere aqui com links reais.*
-
 ### 🔹 **Dashboard de Vendas — Power BI**  
 📁 `link_do_repositorio`  
 Descrição: Dashboard completo com KPIs de vendas, ticket médio, produtos e regiões.
