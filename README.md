@@ -71,17 +71,5 @@ Descrição: Pipeline de dados simples usando ferramentas da AWS.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ffeudeu&show_icons=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffeudeu&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ### ✨ Obrigado por visitar meu perfil!
 Se quiser ver meus projetos, role até os repositórios fixados 👇
