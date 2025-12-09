@@ -37,22 +37,6 @@
 
 ---
 
-## 📌 Projetos em Destaque
-
-### 🔹 **Dashboard de Vendas — Power BI**  
-📁 `link_do_repositorio`  
-Descrição: Dashboard completo com KPIs de vendas, ticket médio, produtos e regiões.
-
-### 🔹 **ETL com Python e Pandas**  
-📁 `link_do_repositorio`  
-Descrição: Limpeza de dados, transformação e geração de insights automáticos.
-
-### 🔹 **Pipeline na AWS (S3 → Athena → Power BI)**  
-📁 `link_do_repositorio`  
-Descrição: Pipeline de dados simples usando ferramentas da AWS.
-
----
-
 ## 🧩 Linha do Tempo da minha Carreira
 
 - **2024–2025:** Início da faculdade de ADS  
