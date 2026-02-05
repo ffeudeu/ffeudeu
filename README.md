@@ -41,8 +41,7 @@
 
 - **2024–2025:** Início da faculdade de ADS  
 - **2025:** Curso de Big Data (SENAC)  
-- **2025–2026:** Aprimorando Power BI, SQL, Python e AWS  
-- **Meta 2026:** Início no mercado como Estagiário de BI / Dados  
+- **2025–2026:** Aprimorando Power BI, SQL, Python e AWS    
 
 ---
 
