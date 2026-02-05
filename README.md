@@ -11,8 +11,7 @@
 - 📚 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🎓 Fazendo curso de **Big Data no SENAC**
 - 🧠 Focado em desenvolver habilidades em **Power BI, SQL, AWS e Python**
-- 🎯 Objetivo atual: **Conseguir estágio em Análise de Dados / BI**
-- 🌎 Inglês nível intermediário (em aprimoramento)
+- 🌎 Inglês nível intermediário
 - 📊 Interessado em projetos de BI, ETL, automação e pipelines de dados
 
 ---
